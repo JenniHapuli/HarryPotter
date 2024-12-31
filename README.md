@@ -3,6 +3,7 @@ Frontend perusteet 2024 lopputyö
 
 ## Yleistiedot
 Tekijä: Jenni Hapuli
+
 Lopputyön nimi: Harry Potter -hahmohaku
 
 ## Idea lyhyesti:
