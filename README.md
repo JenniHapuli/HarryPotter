@@ -30,6 +30,7 @@ Sovellus sisältää latausanimaation, joka näkyy, kun dataa haetaan.
 ## Harjoitustyön tekeminen
 Harry Potter API:
 https://www.freepublicapis.com/harry-potter-api
+
 https://hp-api.onrender.com/api/characters
 
 ## Tekoälyn hyödyntäminen lopputyössä:
